@@ -336,7 +336,7 @@
                   "|",
                   Object(j.jsx)("a", { href: "#legal", children: "LEGAL" }),
                   "|",
-                  Object(j.jsx)("a", { href: "idioma", children: "IDIOMA" }),
+                  Object(j.jsx)("a", { href: "#idioma", children: "IDIOMA" }),
                 ],
               }),
             ],
